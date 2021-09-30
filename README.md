@@ -1,2 +1,2 @@
 # testSubModule2
-New base state.
+base state + 1
