@@ -1,4 +1,4 @@
 # testSubModule2
 
-base state + 25
+base state + 26
 
